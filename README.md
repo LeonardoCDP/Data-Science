@@ -5,7 +5,7 @@
 </p>
 
 # Leonardo Cotta
-<sub>*Cientista de Dados*</sub>
+<sub>*Cientista de Dados e Analista de Sistemas*</sub>
 
 
 
