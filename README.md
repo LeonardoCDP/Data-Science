@@ -18,4 +18,5 @@
 
 * Análise dos Dados do Airbnb - Buenos Aires / Argentina - *https://bit.ly/2MH4o5X*
 * Analisando a Violência no Rio de Janeiro - *https://bit.ly/31l5e0D*
+* Panorama do COVID-19 no Brasil - *https://bit.ly/33sH852*
 ---
