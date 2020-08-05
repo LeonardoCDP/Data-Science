@@ -5,7 +5,7 @@
 </p>
 
 # Leonardo Cotta
-<sub>*Cientista de Dados* Em treinamento </sub>
+<sub>*Cientista de Dados*</sub>
 
 
 
